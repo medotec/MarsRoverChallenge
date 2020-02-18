@@ -1,0 +1,11 @@
+f:\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.exe
+F:\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.deps.json
+F:\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.runtimeconfig.json
+F:\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.runtimeconfig.dev.json
+f:\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.dll
+f:\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.pdb
+f:\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.csprojAssemblyReference.cache
+f:\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.AssemblyInfoInputs.cache
+f:\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.AssemblyInfo.cs
+f:\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.dll
+f:\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.pdb
